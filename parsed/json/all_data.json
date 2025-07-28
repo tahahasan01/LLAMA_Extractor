@@ -1,0 +1,1615 @@
+[
+  {
+    "pages": [
+      {
+        "page": 1,
+        "text": "QUARTERLY BUSINESS REPORT - Q1 2024\n\nTechCorp Industries Inc.\n\n\nEXECUTIVE SUMMARY\nTechCorp Industries delivered strong performance in Q1 2024, with revenue growing 15%\nyear-over-year to $12.4 million. Net profit margin improved to 18.2%, up from 16.8% in Q1 2023.\nCustomer acquisition increased by 22% with 1,847 new customers added during the quarter. Our\nstrategic focus on AI-enhanced products and cloud solutions continues to drive sustainable growth\nacross all market segments.\n\nKEY PERFORMANCE INDICATORS\n\n       Metric           Q1 2024        Q1 2023      Change\n\n   Total Revenue      $12,400,000    $10,783,000    +15.0%\n     Net Profit        $2,256,800     $1,811,544    +24.6%\n Net Profit Margin       18.2%          16.8%       +1.4pp\n   New Customers         1,847          1,513       +22.1%\n Customer Retention      94.2%          92.8%       +1.4pp\nAverage Order Value     $185.50        $169.25      +9.6%\n   Employee Count         245            217        +12.9%\n\nPRODUCT PERFORMANCE\nOur flagship product line, SmartWidget Pro, continues to dominate market share with 38% of total\nrevenue. The new AI-Enhanced Analytics module launched in February has exceeded expectations,\ngenerating $890,000 in revenue within its first month. Customer feedback has been overwhelmingly\npositive, with 89% of users rating the new features as \"excellent\" or \"very good\". The DataFlow Suite\nmaintained strong performance with consistent enterprise adoption. We've seen particular strength in\nthe healthcare and financial services sectors, where compliance features have been well-received.\n\n    Product Line    Q1 2024 Revenue    % of Total    YoY Growth\n\n  SmartWidget Pro      $4,712,000         38%           +18%\n   DataFlow Suite      $3,596,000         29%           +12%\nAI Analytics Module    $2,232,000         18%           New\n  Legacy Products      $1,860,000         15%           -8%",
+        "md": "```markdown\n# Quarterly Business Report - Q1 2024\n\n**TechCorp Industries Inc.**\n\n## Executive Summary\nTechCorp Industries delivered strong performance in Q1 2024, with revenue growing 15% year-over-year to $12.4 million. Net profit margin improved to 18.2%, up from 16.8% in Q1 2023. Customer acquisition increased by 22% with 1,847 new customers added during the quarter. Our strategic focus on AI-enhanced products and cloud solutions continues to drive sustainable growth across all market segments.\n\n## Key Performance Indicators\n\n| Metric                | Q1 2024       | Q1 2023       | Change   |\n|-----------------------|---------------|---------------|----------|\n| Total Revenue         | $12,400,000   | $10,783,000   | +15.0%   |\n| Net Profit            | $2,256,800    | $1,811,544    | +24.6%   |\n| Net Profit Margin      | 18.2%         | 16.8%         | +1.4pp   |\n| New Customers         | 1,847         | 1,513         | +22.1%   |\n| Customer Retention    | 94.2%         | 92.8%         | +1.4pp   |\n| Average Order Value   | $185.50       | $169.25       | +9.6%    |\n| Employee Count        | 245           | 217           | +12.9%   |\n\n## Product Performance\nOur flagship product line, SmartWidget Pro, continues to dominate market share with 38% of total revenue. The new AI-Enhanced Analytics module launched in February has exceeded expectations, generating $890,000 in revenue within its first month. Customer feedback has been overwhelmingly positive, with 89% of users rating the new features as \"excellent\" or \"very good\". The DataFlow Suite maintained strong performance with consistent enterprise adoption. We've seen particular strength in the healthcare and financial services sectors, where compliance features have been well-received.\n\n| Product Line          | Q1 2024 Revenue | % of Total | YoY Growth |\n|-----------------------|------------------|------------|------------|\n| SmartWidget Pro       | $4,712,000       | 38%        | +18%       |\n| DataFlow Suite        | $3,596,000       | 29%        | +12%       |\n| AI Analytics Module    | $2,232,000       | 18%        | New        |\n| Legacy Products       | $1,860,000       | 15%        | -8%        |\n```",
+        "images": [],
+        "charts": [],
+        "items": [
+          {
+            "type": "text",
+            "value": "```markdown",
+            "md": "```markdown",
+            "bBox": {
+              "x": 0,
+              "y": 0,
+              "w": 612,
+              "h": 792
+            }
+          },
+          {
+            "type": "heading",
+            "lvl": 1,
+            "value": "Quarterly Business Report - Q1 2024",
+            "md": "# Quarterly Business Report - Q1 2024",
+            "bBox": {
+              "x": 139.74,
+              "y": 60,
+              "w": 332.93,
+              "h": 263
+            }
+          },
+          {
+            "type": "text",
+            "value": "**TechCorp Industries Inc.**",
+            "md": "**TechCorp Industries Inc.**",
+            "bBox": {
+              "x": 78,
+              "y": 112,
+              "w": 164.03,
+              "h": 14
+            }
+          },
+          {
+            "type": "heading",
+            "lvl": 2,
+            "value": "Executive Summary",
+            "md": "## Executive Summary",
+            "bBox": {
+              "x": 78,
+              "y": 168,
+              "w": 155.24,
+              "h": 14
+            }
+          },
+          {
+            "type": "text",
+            "value": "TechCorp Industries delivered strong performance in Q1 2024, with revenue growing 15% year-over-year to $12.4 million. Net profit margin improved to 18.2%, up from 16.8% in Q1 2023. Customer acquisition increased by 22% with 1,847 new customers added during the quarter. Our strategic focus on AI-enhanced products and cloud solutions continues to drive sustainable growth across all market segments.",
+            "md": "TechCorp Industries delivered strong performance in Q1 2024, with revenue growing 15% year-over-year to $12.4 million. Net profit margin improved to 18.2%, up from 16.8% in Q1 2023. Customer acquisition increased by 22% with 1,847 new customers added during the quarter. Our strategic focus on AI-enhanced products and cloud solutions continues to drive sustainable growth across all market segments.",
+            "bBox": {
+              "x": 78,
+              "y": 192,
+              "w": 434.65,
+              "h": 506
+            }
+          },
+          {
+            "type": "heading",
+            "lvl": 2,
+            "value": "Key Performance Indicators",
+            "md": "## Key Performance Indicators",
+            "bBox": {
+              "x": 78,
+              "y": 284,
+              "w": 233.23,
+              "h": 14
+            }
+          },
+          {
+            "type": "table",
+            "rows": [
+              [
+                "Metric",
+                "Q1 2024",
+                "Q1 2023",
+                "Change"
+              ],
+              [
+                "Total Revenue",
+                "$12,400,000",
+                "$10,783,000",
+                "+15.0%"
+              ],
+              [
+                "Net Profit",
+                "$2,256,800",
+                "$1,811,544",
+                "+24.6%"
+              ],
+              [
+                "Net Profit Margin",
+                "18.2%",
+                "16.8%",
+                "+1.4pp"
+              ],
+              [
+                "New Customers",
+                "1,847",
+                "1,513",
+                "+22.1%"
+              ],
+              [
+                "Customer Retention",
+                "94.2%",
+                "92.8%",
+                "+1.4pp"
+              ],
+              [
+                "Average Order Value",
+                "$185.50",
+                "$169.25",
+                "+9.6%"
+              ],
+              [
+                "Employee Count",
+                "245",
+                "217",
+                "+12.9%"
+              ]
+            ],
+            "md": "| Metric              | Q1 2024     | Q1 2023     | Change |\n| ------------------- | ----------- | ----------- | ------ |\n| Total Revenue       | $12,400,000 | $10,783,000 | +15.0% |\n| Net Profit          | $2,256,800  | $1,811,544  | +24.6% |\n| Net Profit Margin   | 18.2%       | 16.8%       | +1.4pp |\n| New Customers       | 1,847       | 1,513       | +22.1% |\n| Customer Retention  | 94.2%       | 92.8%       | +1.4pp |\n| Average Order Value | $185.50     | $169.25     | +9.6%  |\n| Employee Count      | 245         | 217         | +12.9% |",
+            "isPerfectTable": false,
+            "csv": "\"Metric\",\"Q1 2024\",\"Q1 2023\",\"Change\"\n\"Total Revenue\",\"$12,400,000\",\"$10,783,000\",\"+15.0%\"\n\"Net Profit\",\"$2,256,800\",\"$1,811,544\",\"+24.6%\"\n\"Net Profit Margin\",\"18.2%\",\"16.8%\",\"+1.4pp\"\n\"New Customers\",\"1,847\",\"1,513\",\"+22.1%\"\n\"Customer Retention\",\"94.2%\",\"92.8%\",\"+1.4pp\"\n\"Average Order Value\",\"$185.50\",\"$169.25\",\"+9.6%\"\n\"Employee Count\",\"245\",\"217\",\"+12.9%\"",
+            "bBox": {
+              "x": 78,
+              "y": 60,
+              "w": 430,
+              "h": 558
+            }
+          },
+          {
+            "type": "heading",
+            "lvl": 2,
+            "value": "Product Performance",
+            "md": "## Product Performance",
+            "bBox": {
+              "x": 78,
+              "y": 493,
+              "w": 183.11,
+              "h": 14
+            }
+          },
+          {
+            "type": "text",
+            "value": "Our flagship product line, SmartWidget Pro, continues to dominate market share with 38% of total revenue. The new AI-Enhanced Analytics module launched in February has exceeded expectations, generating $890,000 in revenue within its first month. Customer feedback has been overwhelmingly positive, with 89% of users rating the new features as \"excellent\" or \"very good\". The DataFlow Suite maintained strong performance with consistent enterprise adoption. We've seen particular strength in the healthcare and financial services sectors, where compliance features have been well-received.",
+            "md": "Our flagship product line, SmartWidget Pro, continues to dominate market share with 38% of total revenue. The new AI-Enhanced Analytics module launched in February has exceeded expectations, generating $890,000 in revenue within its first month. Customer feedback has been overwhelmingly positive, with 89% of users rating the new features as \"excellent\" or \"very good\". The DataFlow Suite maintained strong performance with consistent enterprise adoption. We've seen particular strength in the healthcare and financial services sectors, where compliance features have been well-received.",
+            "bBox": {
+              "x": 78,
+              "y": 338,
+              "w": 446.21,
+              "h": 342
+            }
+          },
+          {
+            "type": "table",
+            "rows": [
+              [
+                "Product Line",
+                "Q1 2024 Revenue",
+                "% of Total",
+                "YoY Growth"
+              ],
+              [
+                "SmartWidget Pro",
+                "$4,712,000",
+                "38%",
+                "+18%"
+              ],
+              [
+                "DataFlow Suite",
+                "$3,596,000",
+                "29%",
+                "+12%"
+              ],
+              [
+                "AI Analytics Module",
+                "$2,232,000",
+                "18%",
+                "New"
+              ],
+              [
+                "Legacy Products",
+                "$1,860,000",
+                "15%",
+                "-8%"
+              ]
+            ],
+            "md": "| Product Line        | Q1 2024 Revenue | % of Total | YoY Growth |\n| ------------------- | --------------- | ---------- | ---------- |\n| SmartWidget Pro     | $4,712,000      | 38%        | +18%       |\n| DataFlow Suite      | $3,596,000      | 29%        | +12%       |\n| AI Analytics Module | $2,232,000      | 18%        | New        |\n| Legacy Products     | $1,860,000      | 15%        | -8%        |",
+            "isPerfectTable": false,
+            "csv": "\"Product Line\",\"Q1 2024 Revenue\",\"% of Total\",\"YoY Growth\"\n\"SmartWidget Pro\",\"$4,712,000\",\"38%\",\"+18%\"\n\"DataFlow Suite\",\"$3,596,000\",\"29%\",\"+12%\"\n\"AI Analytics Module\",\"$2,232,000\",\"18%\",\"New\"\n\"Legacy Products\",\"$1,860,000\",\"15%\",\"-8%\"",
+            "bBox": {
+              "x": 78,
+              "y": 192,
+              "w": 444.6,
+              "h": 506
+            }
+          },
+          {
+            "type": "text",
+            "value": "```",
+            "md": "```",
+            "bBox": {
+              "x": 0,
+              "y": 0,
+              "w": 612,
+              "h": 792
+            }
+          }
+        ],
+        "status": "OK",
+        "originalOrientationAngle": 0,
+        "links": [],
+        "width": 612,
+        "height": 792,
+        "triggeredAutoMode": false,
+        "parsingMode": "accurate",
+        "structuredData": null,
+        "noStructuredContent": false,
+        "noTextContent": false,
+        "pageHeaderMarkdown": "",
+        "pageFooterMarkdown": "",
+        "confidence": 0.935
+      },
+      {
+        "page": 2,
+        "text": "REGIONAL PERFORMANCE\nNorth America remains our strongest market, contributing 62% of total revenue. European expansion\nshows promising growth at 28% increase, driven by successful partnerships in Germany and France.\nAsia-Pacific operations grew by 45% though from a smaller base, with particular strength in Singapore\nand Australia markets.\n\n    Region        Q1 2024    % of Total    YoY Growth\n\nNorth America    $7,688,000     62%           +12%\n    Europe       $2,976,000     24%           +28%\n Asia-Pacific    $1,240,000     10%           +45%\n    Other         $496,000       4%           +8%\n\nCUSTOMER ANALYSIS\nCustomer satisfaction scores remain high at 4.6/5.0, with particular strength in product reliability and\ncustomer service responsiveness. The average customer lifetime value increased to $2,847, up from\n$2,654 in Q1 2023. Our enterprise customer segment (1000+ employees) continues to show strong\ngrowth, now representing 58% of total revenue. Mid-market customers (100-999 employees) represent\n28% of revenue, while small business customers account for 14%. Customer churn rate improved to\n5.8% from 7.2% in the previous quarter, indicating better retention and satisfaction. The implementation\nof our new customer success program has shown measurable impact.\n\nCHALLENGES AND OPPORTUNITIES\nSupply chain disruptions in Q1 resulted in a 3-day average delay in product delivery. We've\nimplemented new logistics partnerships with FedEx and UPS to mitigate this issue. Early results show\nimprovement in delivery times. The upcoming launch of our cloud-based CloudMax platform in Q2 is\nexpected to drive significant growth, with early beta testing showing 89% positive feedback from\nenterprise clients. Pre-orders have already exceeded $2.1 million. Talent acquisition remains\nchallenging in the competitive tech market. We've increased our recruitment budget by 25% and are\nexpanding our remote work policies to access broader talent pools.\n\nFINANCIAL OUTLOOK\nManagement projects Q2 2024 revenue of $13.8-14.2 million, representing 18-22% year-over-year\ngrowth. The company is well-positioned to achieve full-year revenue guidance of $58-62 million. Key\ndrivers for Q2 include: \u2022 CloudMax platform launch expected to contribute $1.5-2.0 million \u2022 Continued\nstrength in enterprise segment \u2022 European market expansion \u2022 New partnership agreements in\nAsia-Pacific We remain confident in our ability to deliver strong shareholder value while investing in\nfuture growth.",
+        "md": "# REGIONAL PERFORMANCE\n\nNorth America remains our strongest market, contributing 62% of total revenue. European expansion shows promising growth at 28% increase, driven by successful partnerships in Germany and France. Asia-Pacific operations grew by 45% though from a smaller base, with particular strength in Singapore and Australia markets.\n\n| Region         | Q1 2024      | % of Total | YoY Growth |\n|----------------|--------------|------------|------------|\n| North America   | $7,688,000   | 62%        | +12%       |\n| Europe         | $2,976,000   | 24%        | +28%       |\n| Asia-Pacific   | $1,240,000   | 10%        | +45%       |\n| Other          | $496,000     | 4%         | +8%        |\n\n# CUSTOMER ANALYSIS\n\nCustomer satisfaction scores remain high at 4.6/5.0, with particular strength in product reliability and customer service responsiveness. The average customer lifetime value increased to $2,847, up from $2,654 in Q1 2023. Our enterprise customer segment (1000+ employees) continues to show strong growth, now representing 58% of total revenue. Mid-market customers (100-999 employees) represent 28% of revenue, while small business customers account for 14%. Customer churn rate improved to 5.8% from 7.2% in the previous quarter, indicating better retention and satisfaction. The implementation of our new customer success program has shown measurable impact.\n\n# CHALLENGES AND OPPORTUNITIES\n\nSupply chain disruptions in Q1 resulted in a 3-day average delay in product delivery. We've implemented new logistics partnerships with FedEx and UPS to mitigate this issue. Early results show improvement in delivery times. The upcoming launch of our cloud-based CloudMax platform in Q2 is expected to drive significant growth, with early beta testing showing 89% positive feedback from enterprise clients. Pre-orders have already exceeded $2.1 million. Talent acquisition remains challenging in the competitive tech market. We've increased our recruitment budget by 25% and are expanding our remote work policies to access broader talent pools.\n\n# FINANCIAL OUTLOOK\n\nManagement projects Q2 2024 revenue of $13.8-14.2 million, representing 18-22% year-over-year growth. The company is well-positioned to achieve full-year revenue guidance of $58-62 million. Key drivers for Q2 include:\n- CloudMax platform launch expected to contribute $1.5-2.0 million\n- Continued strength in enterprise segment\n- European market expansion\n- New partnership agreements in Asia-Pacific\n\nWe remain confident in our ability to deliver strong shareholder value while investing in future growth.",
+        "images": [],
+        "charts": [],
+        "items": [
+          {
+            "type": "heading",
+            "lvl": 1,
+            "value": "REGIONAL PERFORMANCE",
+            "md": "# REGIONAL PERFORMANCE",
+            "bBox": {
+              "x": 78,
+              "y": 92,
+              "w": 187.78,
+              "h": 101
+            }
+          },
+          {
+            "type": "text",
+            "value": "North America remains our strongest market, contributing 62% of total revenue. European expansion shows promising growth at 28% increase, driven by successful partnerships in Germany and France. Asia-Pacific operations grew by 45% though from a smaller base, with particular strength in Singapore and Australia markets.",
+            "md": "North America remains our strongest market, contributing 62% of total revenue. European expansion shows promising growth at 28% increase, driven by successful partnerships in Germany and France. Asia-Pacific operations grew by 45% though from a smaller base, with particular strength in Singapore and Australia markets.",
+            "bBox": {
+              "x": 78,
+              "y": 116,
+              "w": 451.71,
+              "h": 139
+            }
+          },
+          {
+            "type": "table",
+            "rows": [
+              [
+                "Region",
+                "Q1 2024",
+                "% of Total",
+                "YoY Growth"
+              ],
+              [
+                "North America",
+                "$7,688,000",
+                "62%",
+                "+12%"
+              ],
+              [
+                "Europe",
+                "$2,976,000",
+                "24%",
+                "+28%"
+              ],
+              [
+                "Asia-Pacific",
+                "$1,240,000",
+                "10%",
+                "+45%"
+              ],
+              [
+                "Other",
+                "$496,000",
+                "4%",
+                "+8%"
+              ]
+            ],
+            "md": "| Region        | Q1 2024    | % of Total | YoY Growth |\n| ------------- | ---------- | ---------- | ---------- |\n| North America | $7,688,000 | 62%        | +12%       |\n| Europe        | $2,976,000 | 24%        | +28%       |\n| Asia-Pacific  | $1,240,000 | 10%        | +45%       |\n| Other         | $496,000   | 4%         | +8%        |",
+            "isPerfectTable": false,
+            "csv": "\"Region\",\"Q1 2024\",\"% of Total\",\"YoY Growth\"\n\"North America\",\"$7,688,000\",\"62%\",\"+12%\"\n\"Europe\",\"$2,976,000\",\"24%\",\"+28%\"\n\"Asia-Pacific\",\"$1,240,000\",\"10%\",\"+45%\"\n\"Other\",\"$496,000\",\"4%\",\"+8%\"",
+            "bBox": {
+              "x": 78,
+              "y": 92,
+              "w": 453.27,
+              "h": 580
+            }
+          },
+          {
+            "type": "heading",
+            "lvl": 1,
+            "value": "CUSTOMER ANALYSIS",
+            "md": "# CUSTOMER ANALYSIS",
+            "bBox": {
+              "x": 78,
+              "y": 310,
+              "w": 155,
+              "h": 14
+            }
+          },
+          {
+            "type": "text",
+            "value": "Customer satisfaction scores remain high at 4.6/5.0, with particular strength in product reliability and customer service responsiveness. The average customer lifetime value increased to $2,847, up from $2,654 in Q1 2023. Our enterprise customer segment (1000+ employees) continues to show strong growth, now representing 58% of total revenue. Mid-market customers (100-999 employees) represent 28% of revenue, while small business customers account for 14%. Customer churn rate improved to 5.8% from 7.2% in the previous quarter, indicating better retention and satisfaction. The implementation of our new customer success program has shown measurable impact.",
+            "md": "Customer satisfaction scores remain high at 4.6/5.0, with particular strength in product reliability and customer service responsiveness. The average customer lifetime value increased to $2,847, up from $2,654 in Q1 2023. Our enterprise customer segment (1000+ employees) continues to show strong growth, now representing 58% of total revenue. Mid-market customers (100-999 employees) represent 28% of revenue, while small business customers account for 14%. Customer churn rate improved to 5.8% from 7.2% in the previous quarter, indicating better retention and satisfaction. The implementation of our new customer success program has shown measurable impact.",
+            "bBox": {
+              "x": 78,
+              "y": 182,
+              "w": 456.2,
+              "h": 234
+            }
+          },
+          {
+            "type": "heading",
+            "lvl": 1,
+            "value": "CHALLENGES AND OPPORTUNITIES",
+            "md": "# CHALLENGES AND OPPORTUNITIES",
+            "bBox": {
+              "x": 78,
+              "y": 450,
+              "w": 248.55,
+              "h": 14
+            }
+          },
+          {
+            "type": "text",
+            "value": "Supply chain disruptions in Q1 resulted in a 3-day average delay in product delivery. We've implemented new logistics partnerships with FedEx and UPS to mitigate this issue. Early results show improvement in delivery times. The upcoming launch of our cloud-based CloudMax platform in Q2 is expected to drive significant growth, with early beta testing showing 89% positive feedback from enterprise clients. Pre-orders have already exceeded $2.1 million. Talent acquisition remains challenging in the competitive tech market. We've increased our recruitment budget by 25% and are expanding our remote work policies to access broader talent pools.",
+            "md": "Supply chain disruptions in Q1 resulted in a 3-day average delay in product delivery. We've implemented new logistics partnerships with FedEx and UPS to mitigate this issue. Early results show improvement in delivery times. The upcoming launch of our cloud-based CloudMax platform in Q2 is expected to drive significant growth, with early beta testing showing 89% positive feedback from enterprise clients. Pre-orders have already exceeded $2.1 million. Talent acquisition remains challenging in the competitive tech market. We've increased our recruitment budget by 25% and are expanding our remote work policies to access broader talent pools.",
+            "bBox": {
+              "x": 78,
+              "y": 474,
+              "w": 449.26,
+              "h": 82
+            }
+          },
+          {
+            "type": "heading",
+            "lvl": 1,
+            "value": "FINANCIAL OUTLOOK",
+            "md": "# FINANCIAL OUTLOOK",
+            "bBox": {
+              "x": 78,
+              "y": 590,
+              "w": 149.32,
+              "h": 14
+            }
+          },
+          {
+            "type": "text",
+            "value": "Management projects Q2 2024 revenue of $13.8-14.2 million, representing 18-22% year-over-year growth. The company is well-positioned to achieve full-year revenue guidance of $58-62 million. Key drivers for Q2 include:\n- CloudMax platform launch expected to contribute $1.5-2.0 million\n- Continued strength in enterprise segment\n- European market expansion\n- New partnership agreements in Asia-Pacific\n\nWe remain confident in our ability to deliver strong shareholder value while investing in future growth.",
+            "md": "Management projects Q2 2024 revenue of $13.8-14.2 million, representing 18-22% year-over-year growth. The company is well-positioned to achieve full-year revenue guidance of $58-62 million. Key drivers for Q2 include:\n- CloudMax platform launch expected to contribute $1.5-2.0 million\n- Continued strength in enterprise segment\n- European market expansion\n- New partnership agreements in Asia-Pacific\n\nWe remain confident in our ability to deliver strong shareholder value while investing in future growth.",
+            "bBox": {
+              "x": 78,
+              "y": 227,
+              "w": 442.73,
+              "h": 457
+            }
+          }
+        ],
+        "status": "OK",
+        "originalOrientationAngle": 0,
+        "links": [],
+        "width": 612,
+        "height": 792,
+        "triggeredAutoMode": false,
+        "parsingMode": "accurate",
+        "structuredData": null,
+        "noStructuredContent": false,
+        "noTextContent": false,
+        "pageHeaderMarkdown": "",
+        "pageFooterMarkdown": "",
+        "confidence": 0.999
+      }
+    ],
+    "job_metadata": {
+      "credits_used": 0,
+      "job_credits_usage": 0,
+      "job_pages": 2,
+      "job_auto_mode_triggered_pages": 0,
+      "job_is_cache_hit": false
+    },
+    "job_id": "b7347d72-a1f1-46a0-9a47-40c10c946edb",
+    "file_path": "C:\\Users\\Syed Taha Hasan\\Desktop\\LLAMAEXTRACTOR\\Data\\Q1_2024_Business_Report.pdf"
+  },
+  {
+    "pages": [
+      {
+        "page": 1,
+        "text": "QUARTERLY BUSINESS REPORT - Q2 2024\n\nTechCorp Industries Inc.\n\n\nEXECUTIVE SUMMARY\nTechCorp Industries exceeded expectations in Q2 2024, achieving record revenue of $14.1 million,\nrepresenting 21% year-over-year growth. The successful launch of our CloudMax platform drove\nexceptional performance across all metrics. Customer satisfaction reached an all-time high of 4.8/5.0,\nwhile our expansion into new markets continues to yield positive results.\n\nKEY PERFORMANCE INDICATORS\n\n       Metric           Q2 2024        Q2 2023      Change\n\n   Total Revenue      $14,100,000    $11,653,000    +21.0%\n     Net Profit        $2,679,000     $2,098,540    +27.7%\n Net Profit Margin       19.0%          18.0%       +1.0pp\n   New Customers         2,156          1,687       +27.8%\n Customer Retention      95.8%          93.2%       +2.6pp\nAverage Order Value     $198.75        $173.50      +14.6%\n   Employee Count         267            225        +18.7%\n\nCLOUDMAX PLATFORM LAUNCH SUCCESS\nThe CloudMax platform launch in April generated $1.8 million in revenue within its first two months,\nsignificantly exceeding our conservative projections of $1.2 million. Enterprise adoption has been\nparticularly strong with 89 new enterprise clients signed. Key CloudMax metrics: \u2022 89 enterprise clients\nonboarded \u2022 234 mid-market customers adopted \u2022 1,456 small business subscribers \u2022 96% uptime\nachieved \u2022 4.9/5.0 customer satisfaction rating The platform's AI-driven analytics capabilities have\nreceived exceptional market reception, with customers reporting 35% improvement in operational\nefficiency on average.\n\n    Product Line    Q2 2024 Revenue    % of Total    QoQ Growth\n\n  SmartWidget Pro      $5,076,000         36%           +8%\n CloudMax Platform     $1,800,000         13%           New\n   DataFlow Suite      $3,948,000         28%           +10%\nAI Analytics Module    $2,346,000         17%           +5%",
+        "md": "```markdown\n# Quarterly Business Report - Q2 2024\n\n**TechCorp Industries Inc.**\n\n## Executive Summary\nTechCorp Industries exceeded expectations in Q2 2024, achieving record revenue of $14.1 million, representing 21% year-over-year growth. The successful launch of our CloudMax platform drove exceptional performance across all metrics. Customer satisfaction reached an all-time high of 4.8/5.0, while our expansion into new markets continues to yield positive results.\n\n## Key Performance Indicators\n\n| Metric                | Q2 2024       | Q2 2023       | Change   |\n|-----------------------|---------------|---------------|----------|\n| Total Revenue         | $14,100,000   | $11,653,000   | +21.0%   |\n| Net Profit            | $2,679,000    | $2,098,540    | +27.7%   |\n| Net Profit Margin      | 19.0%         | 18.0%         | +1.0pp   |\n| New Customers         | 2,156         | 1,687         | +27.8%   |\n| Customer Retention    | 95.8%         | 93.2%         | +2.6pp   |\n| Average Order Value   | $198.75       | $173.50       | +14.6%   |\n| Employee Count        | 267           | 225           | +18.7%   |\n\n## CloudMax Platform Launch Success\nThe CloudMax platform launch in April generated $1.8 million in revenue within its first two months, significantly exceeding our conservative projections of $1.2 million. Enterprise adoption has been particularly strong with 89 new enterprise clients signed.\n\n**Key CloudMax metrics:**\n- 89 enterprise clients onboarded\n- 234 mid-market customers adopted\n- 1,456 small business subscribers\n- 96% uptime achieved\n- 4.9/5.0 customer satisfaction rating\n\nThe platform's AI-driven analytics capabilities have received exceptional market reception, with customers reporting a 35% improvement in operational efficiency on average.\n\n## Product Line Revenue Breakdown\n\n| Product Line          | Q2 2024 Revenue | % of Total | QoQ Growth |\n|-----------------------|------------------|------------|------------|\n| SmartWidget Pro       | $5,076,000       | 36%        | +8%        |\n| CloudMax Platform     | $1,800,000       | 13%        | New        |\n| DataFlow Suite        | $3,948,000       | 28%        | +10%       |\n| AI Analytics Module    | $2,346,000       | 17%        | +5%        |\n```",
+        "images": [],
+        "charts": [],
+        "items": [
+          {
+            "type": "text",
+            "value": "```markdown",
+            "md": "```markdown",
+            "bBox": {
+              "x": 0,
+              "y": 0,
+              "w": 612,
+              "h": 792
+            }
+          },
+          {
+            "type": "heading",
+            "lvl": 1,
+            "value": "Quarterly Business Report - Q2 2024",
+            "md": "# Quarterly Business Report - Q2 2024",
+            "bBox": {
+              "x": 139.74,
+              "y": 60,
+              "w": 332.93,
+              "h": 251
+            }
+          },
+          {
+            "type": "text",
+            "value": "**TechCorp Industries Inc.**",
+            "md": "**TechCorp Industries Inc.**",
+            "bBox": {
+              "x": 78,
+              "y": 112,
+              "w": 164.03,
+              "h": 14
+            }
+          },
+          {
+            "type": "heading",
+            "lvl": 2,
+            "value": "Executive Summary",
+            "md": "## Executive Summary",
+            "bBox": {
+              "x": 78,
+              "y": 168,
+              "w": 155.24,
+              "h": 14
+            }
+          },
+          {
+            "type": "text",
+            "value": "TechCorp Industries exceeded expectations in Q2 2024, achieving record revenue of $14.1 million, representing 21% year-over-year growth. The successful launch of our CloudMax platform drove exceptional performance across all metrics. Customer satisfaction reached an all-time high of 4.8/5.0, while our expansion into new markets continues to yield positive results.",
+            "md": "TechCorp Industries exceeded expectations in Q2 2024, achieving record revenue of $14.1 million, representing 21% year-over-year growth. The successful launch of our CloudMax platform drove exceptional performance across all metrics. Customer satisfaction reached an all-time high of 4.8/5.0, while our expansion into new markets continues to yield positive results.",
+            "bBox": {
+              "x": 78,
+              "y": 192,
+              "w": 447.59,
+              "h": 475
+            }
+          },
+          {
+            "type": "heading",
+            "lvl": 2,
+            "value": "Key Performance Indicators",
+            "md": "## Key Performance Indicators",
+            "bBox": {
+              "x": 78,
+              "y": 272,
+              "w": 233.23,
+              "h": 14
+            }
+          },
+          {
+            "type": "table",
+            "rows": [
+              [
+                "Metric",
+                "Q2 2024",
+                "Q2 2023",
+                "Change"
+              ],
+              [
+                "Total Revenue",
+                "$14,100,000",
+                "$11,653,000",
+                "+21.0%"
+              ],
+              [
+                "Net Profit",
+                "$2,679,000",
+                "$2,098,540",
+                "+27.7%"
+              ],
+              [
+                "Net Profit Margin",
+                "19.0%",
+                "18.0%",
+                "+1.0pp"
+              ],
+              [
+                "New Customers",
+                "2,156",
+                "1,687",
+                "+27.8%"
+              ],
+              [
+                "Customer Retention",
+                "95.8%",
+                "93.2%",
+                "+2.6pp"
+              ],
+              [
+                "Average Order Value",
+                "$198.75",
+                "$173.50",
+                "+14.6%"
+              ],
+              [
+                "Employee Count",
+                "267",
+                "225",
+                "+18.7%"
+              ]
+            ],
+            "md": "| Metric              | Q2 2024     | Q2 2023     | Change |\n| ------------------- | ----------- | ----------- | ------ |\n| Total Revenue       | $14,100,000 | $11,653,000 | +21.0% |\n| Net Profit          | $2,679,000  | $2,098,540  | +27.7% |\n| Net Profit Margin   | 19.0%       | 18.0%       | +1.0pp |\n| New Customers       | 2,156       | 1,687       | +27.8% |\n| Customer Retention  | 95.8%       | 93.2%       | +2.6pp |\n| Average Order Value | $198.75     | $173.50     | +14.6% |\n| Employee Count      | 267         | 225         | +18.7% |",
+            "isPerfectTable": false,
+            "csv": "\"Metric\",\"Q2 2024\",\"Q2 2023\",\"Change\"\n\"Total Revenue\",\"$14,100,000\",\"$11,653,000\",\"+21.0%\"\n\"Net Profit\",\"$2,679,000\",\"$2,098,540\",\"+27.7%\"\n\"Net Profit Margin\",\"19.0%\",\"18.0%\",\"+1.0pp\"\n\"New Customers\",\"2,156\",\"1,687\",\"+27.8%\"\n\"Customer Retention\",\"95.8%\",\"93.2%\",\"+2.6pp\"\n\"Average Order Value\",\"$198.75\",\"$173.50\",\"+14.6%\"\n\"Employee Count\",\"267\",\"225\",\"+18.7%\"",
+            "bBox": {
+              "x": 78,
+              "y": 60,
+              "w": 451.65,
+              "h": 563
+            }
+          },
+          {
+            "type": "heading",
+            "lvl": 2,
+            "value": "CloudMax Platform Launch Success",
+            "md": "## CloudMax Platform Launch Success",
+            "bBox": {
+              "x": 78,
+              "y": 481,
+              "w": 297.42,
+              "h": 186
+            }
+          },
+          {
+            "type": "text",
+            "value": "The CloudMax platform launch in April generated $1.8 million in revenue within its first two months, significantly exceeding our conservative projections of $1.2 million. Enterprise adoption has been particularly strong with 89 new enterprise clients signed.\n\n**Key CloudMax metrics:**\n- 89 enterprise clients onboarded\n- 234 mid-market customers adopted\n- 1,456 small business subscribers\n- 96% uptime achieved\n- 4.9/5.0 customer satisfaction rating\n\nThe platform's AI-driven analytics capabilities have received exceptional market reception, with customers reporting a 35% improvement in operational efficiency on average.",
+            "md": "The CloudMax platform launch in April generated $1.8 million in revenue within its first two months, significantly exceeding our conservative projections of $1.2 million. Enterprise adoption has been particularly strong with 89 new enterprise clients signed.\n\n**Key CloudMax metrics:**\n- 89 enterprise clients onboarded\n- 234 mid-market customers adopted\n- 1,456 small business subscribers\n- 96% uptime achieved\n- 4.9/5.0 customer satisfaction rating\n\nThe platform's AI-driven analytics capabilities have received exceptional market reception, with customers reporting a 35% improvement in operational efficiency on average.",
+            "bBox": {
+              "x": 78,
+              "y": 299,
+              "w": 437.26,
+              "h": 368
+            }
+          },
+          {
+            "type": "heading",
+            "lvl": 2,
+            "value": "Product Line Revenue Breakdown",
+            "md": "## Product Line Revenue Breakdown",
+            "bBox": {
+              "x": 128.38,
+              "y": 612,
+              "w": 67.62,
+              "h": 11
+            }
+          },
+          {
+            "type": "table",
+            "rows": [
+              [
+                "Product Line",
+                "Q2 2024 Revenue",
+                "% of Total",
+                "QoQ Growth"
+              ],
+              [
+                "SmartWidget Pro",
+                "$5,076,000",
+                "36%",
+                "+8%"
+              ],
+              [
+                "CloudMax Platform",
+                "$1,800,000",
+                "13%",
+                "New"
+              ],
+              [
+                "DataFlow Suite",
+                "$3,948,000",
+                "28%",
+                "+10%"
+              ],
+              [
+                "AI Analytics Module",
+                "$2,346,000",
+                "17%",
+                "+5%"
+              ]
+            ],
+            "md": "| Product Line        | Q2 2024 Revenue | % of Total | QoQ Growth |\n| ------------------- | --------------- | ---------- | ---------- |\n| SmartWidget Pro     | $5,076,000      | 36%        | +8%        |\n| CloudMax Platform   | $1,800,000      | 13%        | New        |\n| DataFlow Suite      | $3,948,000      | 28%        | +10%       |\n| AI Analytics Module | $2,346,000      | 17%        | +5%        |",
+            "isPerfectTable": false,
+            "csv": "\"Product Line\",\"Q2 2024 Revenue\",\"% of Total\",\"QoQ Growth\"\n\"SmartWidget Pro\",\"$5,076,000\",\"36%\",\"+8%\"\n\"CloudMax Platform\",\"$1,800,000\",\"13%\",\"New\"\n\"DataFlow Suite\",\"$3,948,000\",\"28%\",\"+10%\"\n\"AI Analytics Module\",\"$2,346,000\",\"17%\",\"+5%\"",
+            "bBox": {
+              "x": 78,
+              "y": 204,
+              "w": 451.65,
+              "h": 499
+            }
+          },
+          {
+            "type": "text",
+            "value": "```",
+            "md": "```",
+            "bBox": {
+              "x": 0,
+              "y": 0,
+              "w": 612,
+              "h": 792
+            }
+          }
+        ],
+        "status": "OK",
+        "originalOrientationAngle": 0,
+        "links": [],
+        "width": 612,
+        "height": 792,
+        "triggeredAutoMode": false,
+        "parsingMode": "accurate",
+        "structuredData": null,
+        "noStructuredContent": false,
+        "noTextContent": false,
+        "pageHeaderMarkdown": "",
+        "pageFooterMarkdown": "",
+        "confidence": 0.91
+      },
+      {
+        "page": 2,
+        "text": "Legacy Products                     $930,000    6%                              -50%\n\nMARKET EXPANSION RESULTS\nOur aggressive expansion strategy is paying dividends. European revenue grew 34%\nquarter-over-quarter, driven by successful market entry in Italy and Spain. Our partnership with\nEuroTech Solutions has opened significant opportunities in the automotive sector. Asia-Pacific\ncontinues to show exceptional growth at 52% QoQ, with new offices established in Tokyo and Sydney.\nThe localization of our products for Asian markets has been well-received, particularly in the\nmanufacturing and logistics sectors.\n\nQ3 2024 OUTLOOK\nManagement is optimistic about Q3 2024 prospects, projecting revenue of $15.2-15.8 million. Key\ngrowth drivers include: \u2022 CloudMax platform scaling to 500+ enterprise clients \u2022 Launch of CloudMax\nMobile app in July \u2022 Expansion into South American markets \u2022 Partnership with Microsoft for Azure\nintegration \u2022 AI-powered customer service platform launch We're raising our full-year guidance to\n$62-66 million, reflecting strong momentum across all business segments.",
+        "md": "# Legacy Products\n- Revenue: $930,000\n- Growth: 6%\n- Decline: -50%\n\n## MARKET EXPANSION RESULTS\nOur aggressive expansion strategy is paying dividends. European revenue grew 34% quarter-over-quarter, driven by successful market entry in Italy and Spain. Our partnership with EuroTech Solutions has opened significant opportunities in the automotive sector. Asia-Pacific continues to show exceptional growth at 52% QoQ, with new offices established in Tokyo and Sydney. The localization of our products for Asian markets has been well-received, particularly in the manufacturing and logistics sectors.\n\n## Q3 2024 OUTLOOK\nManagement is optimistic about Q3 2024 prospects, projecting revenue of $15.2-15.8 million. Key growth drivers include:\n- CloudMax platform scaling to 500+ enterprise clients\n- Launch of CloudMax Mobile app in July\n- Expansion into South American markets\n- Partnership with Microsoft for Azure integration\n- AI-powered customer service platform launch\n\nWe're raising our full-year guidance to $62-66 million, reflecting strong momentum across all business segments.",
+        "images": [],
+        "charts": [],
+        "items": [
+          {
+            "type": "heading",
+            "lvl": 1,
+            "value": "Legacy Products",
+            "md": "# Legacy Products",
+            "bBox": {
+              "x": 124.76,
+              "y": 63,
+              "w": 74.02,
+              "h": 10
+            }
+          },
+          {
+            "type": "text",
+            "value": "- Revenue: $930,000\n- Growth: 6%\n- Decline: -50%",
+            "md": "- Revenue: $930,000\n- Growth: 6%\n- Decline: -50%",
+            "bBox": {
+              "x": 267.15,
+              "y": 63,
+              "w": 212.18,
+              "h": 10
+            }
+          },
+          {
+            "type": "heading",
+            "lvl": 2,
+            "value": "MARKET EXPANSION RESULTS",
+            "md": "## MARKET EXPANSION RESULTS",
+            "bBox": {
+              "x": 78,
+              "y": 110,
+              "w": 215.12,
+              "h": 14
+            }
+          },
+          {
+            "type": "text",
+            "value": "Our aggressive expansion strategy is paying dividends. European revenue grew 34% quarter-over-quarter, driven by successful market entry in Italy and Spain. Our partnership with EuroTech Solutions has opened significant opportunities in the automotive sector. Asia-Pacific continues to show exceptional growth at 52% QoQ, with new offices established in Tokyo and Sydney. The localization of our products for Asian markets has been well-received, particularly in the manufacturing and logistics sectors.",
+            "md": "Our aggressive expansion strategy is paying dividends. European revenue grew 34% quarter-over-quarter, driven by successful market entry in Italy and Spain. Our partnership with EuroTech Solutions has opened significant opportunities in the automotive sector. Asia-Pacific continues to show exceptional growth at 52% QoQ, with new offices established in Tokyo and Sydney. The localization of our products for Asian markets has been well-received, particularly in the manufacturing and logistics sectors.",
+            "bBox": {
+              "x": 78,
+              "y": 134,
+              "w": 452.31,
+              "h": 70
+            }
+          },
+          {
+            "type": "heading",
+            "lvl": 2,
+            "value": "Q3 2024 OUTLOOK",
+            "md": "## Q3 2024 OUTLOOK",
+            "bBox": {
+              "x": 78,
+              "y": 238,
+              "w": 127.6,
+              "h": 14
+            }
+          },
+          {
+            "type": "text",
+            "value": "Management is optimistic about Q3 2024 prospects, projecting revenue of $15.2-15.8 million. Key growth drivers include:\n- CloudMax platform scaling to 500+ enterprise clients\n- Launch of CloudMax Mobile app in July\n- Expansion into South American markets\n- Partnership with Microsoft for Azure integration\n- AI-powered customer service platform launch\n\nWe're raising our full-year guidance to $62-66 million, reflecting strong momentum across all business segments.",
+            "md": "Management is optimistic about Q3 2024 prospects, projecting revenue of $15.2-15.8 million. Key growth drivers include:\n- CloudMax platform scaling to 500+ enterprise clients\n- Launch of CloudMax Mobile app in July\n- Expansion into South American markets\n- Partnership with Microsoft for Azure integration\n- AI-powered customer service platform launch\n\nWe're raising our full-year guidance to $62-66 million, reflecting strong momentum across all business segments.",
+            "bBox": {
+              "x": 78,
+              "y": 262,
+              "w": 431.08,
+              "h": 58
+            }
+          }
+        ],
+        "status": "OK",
+        "originalOrientationAngle": 0,
+        "links": [],
+        "width": 612,
+        "height": 792,
+        "triggeredAutoMode": false,
+        "parsingMode": "accurate",
+        "structuredData": null,
+        "noStructuredContent": false,
+        "noTextContent": false,
+        "pageHeaderMarkdown": "",
+        "pageFooterMarkdown": "",
+        "confidence": 0.976
+      }
+    ],
+    "job_metadata": {
+      "credits_used": 0,
+      "job_credits_usage": 0,
+      "job_pages": 2,
+      "job_auto_mode_triggered_pages": 0,
+      "job_is_cache_hit": false
+    },
+    "job_id": "46e9d6d3-ca92-4f34-96f6-4943e5524620",
+    "file_path": "C:\\Users\\Syed Taha Hasan\\Desktop\\LLAMAEXTRACTOR\\Data\\Q2_2024_Business_Report.pdf"
+  },
+  {
+    "pages": [
+      {
+        "page": 1,
+        "text": "                    SALES TEAM MEETING NOTES\n\nDate: June 15, 2024 | Time: 10:00 AM - 11:30 AM\nLocation: Conference Room B / Virtual\n\nATTENDEES\nPresent: \u2022 Sarah Johnson - VP Sales \u2022 Michael Chen - Senior Sales Manager, Enterprise \u2022 Lisa\nRodriguez - Sales Manager, Mid-Market \u2022 David Kim - Sales Manager, APAC \u2022 Jennifer Walsh - Sales\nOperations Manager \u2022 Tom Anderson - Sales Engineer \u2022 Emily Foster - Customer Success Manager\nAbsent: \u2022 Robert Taylor - Sales Manager, Europe (on client visit)\n\nQ2 PERFORMANCE REVIEW\nSarah opened the meeting by congratulating the team on exceeding Q2 targets. Key highlights: \u2022 Total\nQ2 sales: $14.1M (105% of target) \u2022 Enterprise segment: $8.46M (112% of target) \u2022 Mid-market\nsegment: $3.94M (98% of target) \u2022 SMB segment: $1.7M (89% of target) Michael reported that the\nCloudMax platform launch was the key driver of enterprise success, with 89 new enterprise clients\nsigned. The average deal size increased to $95,000, up from $82,000 in Q1. Lisa noted that\nmid-market customers are showing strong interest in the AI Analytics module, with 67% of new deals\nincluding this component. However, price sensitivity remains a concern in this segment. David\nhighlighted exceptional growth in APAC, with Japan contributing $450,000 in Q2 alone. The localization\nefforts have been crucial to this success.\n\nQ3 PIPELINE REVIEW\nJennifer presented the Q3 pipeline analysis: \u2022 Total Q3 pipeline: $18.2M (weighted) \u2022 Enterprise\npipeline: $12.1M (Stage 3+ deals) \u2022 Mid-market pipeline: $4.8M (strong momentum) \u2022 SMB pipeline:\n$1.3M (needs improvement) High-confidence deals for Q3: \u2022 GlobalTech Industries: $1.2M (CloudMax\nenterprise deployment) \u2022 Manufacturing Solutions Inc: $850K (DataFlow Suite + AI Analytics) \u2022\nEuropean Logistics Group: $2.1M (multi-year contract) \u2022 APAC Bank Consortium: $1.8M\n(compliance-focused solution) Concerns: \u2022 Two large enterprise deals ($3.2M combined) may slip to\nQ4 \u2022 Competitive pressure from NewCorp Solutions in mid-market \u2022 Supply chain issues affecting\ndelivery commitments\n\nPRODUCT UPDATES\nTom provided updates on product developments relevant to sales: CloudMax Platform: \u2022 Mobile app\nlaunching July 15th \u2022 API marketplace going live in August \u2022 Enterprise SSO integration completed \u2022\n99.7% uptime achieved in Q2 SmartWidget Pro: \u2022 Version 5.2 launching in August with enhanced AI\ncapabilities \u2022 New compliance features for healthcare sector \u2022 Performance improvements showing\n40% faster processing DataFlow Suite: \u2022 Real-time analytics dashboard redesigned \u2022 New connector\nfor Salesforce integration \u2022 Advanced reporting module in beta testing Competitive Intelligence: \u2022\nNewCorp Solutions released competing product with lower pricing \u2022 TechRival Inc acquired by larger\nplayer, may impact market dynamics \u2022 Our NPS score remains highest in industry at 72",
+        "md": "```markdown\n# SALES TEAM MEETING NOTES\n\n**Date:** June 15, 2024\n**Time:** 10:00 AM - 11:30 AM\n**Location:** Conference Room B / Virtual\n\n## ATTENDEES\n**Present:**\n- Sarah Johnson - VP Sales\n- Michael Chen - Senior Sales Manager, Enterprise\n- Lisa Rodriguez - Sales Manager, Mid-Market\n- David Kim - Sales Manager, APAC\n- Jennifer Walsh - Sales Operations Manager\n- Tom Anderson - Sales Engineer\n- Emily Foster - Customer Success Manager\n\n**Absent:**\n- Robert Taylor - Sales Manager, Europe (on client visit)\n\n## Q2 PERFORMANCE REVIEW\nSarah opened the meeting by congratulating the team on exceeding Q2 targets. Key highlights:\n- **Total Q2 sales:** $14.1M (105% of target)\n- **Enterprise segment:** $8.46M (112% of target)\n- **Mid-market segment:** $3.94M (98% of target)\n- **SMB segment:** $1.7M (89% of target)\n\nMichael reported that the CloudMax platform launch was the key driver of enterprise success, with 89 new enterprise clients signed. The average deal size increased to $95,000, up from $82,000 in Q1. Lisa noted that mid-market customers are showing strong interest in the AI Analytics module, with 67% of new deals including this component. However, price sensitivity remains a concern in this segment. David highlighted exceptional growth in APAC, with Japan contributing $450,000 in Q2 alone. The localization efforts have been crucial to this success.\n\n## Q3 PIPELINE REVIEW\nJennifer presented the Q3 pipeline analysis:\n- **Total Q3 pipeline:** $18.2M (weighted)\n- **Enterprise pipeline:** $12.1M (Stage 3+ deals)\n- **Mid-market pipeline:** $4.8M (strong momentum)\n- **SMB pipeline:** $1.3M (needs improvement)\n\nHigh-confidence deals for Q3:\n- **GlobalTech Industries:** $1.2M (CloudMax enterprise deployment)\n- **Manufacturing Solutions Inc:** $850K (DataFlow Suite + AI Analytics)\n- **European Logistics Group:** $2.1M (multi-year contract)\n- **APAC Bank Consortium:** $1.8M (compliance-focused solution)\n\n**Concerns:**\n- Two large enterprise deals ($3.2M combined) may slip to Q4\n- Competitive pressure from NewCorp Solutions in mid-market\n- Supply chain issues affecting delivery commitments\n\n## PRODUCT UPDATES\nTom provided updates on product developments relevant to sales:\n\n**CloudMax Platform:**\n- Mobile app launching July 15th\n- API marketplace going live in August\n- Enterprise SSO integration completed\n- 99.7% uptime achieved in Q2\n\n**SmartWidget Pro:**\n- Version 5.2 launching in August with enhanced AI capabilities\n- New compliance features for healthcare sector\n- Performance improvements showing 40% faster processing\n\n**DataFlow Suite:**\n- Real-time analytics dashboard redesigned\n- New connector for Salesforce integration\n- Advanced reporting module in beta testing\n\n**Competitive Intelligence:**\n- NewCorp Solutions released competing product with lower pricing\n- TechRival Inc acquired by larger player, may impact market dynamics\n- Our NPS score remains highest in industry at 72\n```",
+        "images": [],
+        "charts": [],
+        "items": [
+          {
+            "type": "text",
+            "value": "```markdown",
+            "md": "```markdown",
+            "bBox": {
+              "x": 0,
+              "y": 0,
+              "w": 612,
+              "h": 792
+            }
+          },
+          {
+            "type": "heading",
+            "lvl": 1,
+            "value": "SALES TEAM MEETING NOTES",
+            "md": "# SALES TEAM MEETING NOTES",
+            "bBox": {
+              "x": 200.99,
+              "y": 60,
+              "w": 209.8,
+              "h": 14
+            }
+          },
+          {
+            "type": "text",
+            "value": "**Date:** June 15, 2024\n**Time:** 10:00 AM - 11:30 AM\n**Location:** Conference Room B / Virtual",
+            "md": "**Date:** June 15, 2024\n**Time:** 10:00 AM - 11:30 AM\n**Location:** Conference Room B / Virtual",
+            "bBox": {
+              "x": 0,
+              "y": 0,
+              "w": 612,
+              "h": 792
+            }
+          },
+          {
+            "type": "heading",
+            "lvl": 2,
+            "value": "ATTENDEES",
+            "md": "## ATTENDEES",
+            "bBox": {
+              "x": 78,
+              "y": 158,
+              "w": 85,
+              "h": 14
+            }
+          },
+          {
+            "type": "text",
+            "value": "**Present:**\n- Sarah Johnson - VP Sales\n- Michael Chen - Senior Sales Manager, Enterprise\n- Lisa Rodriguez - Sales Manager, Mid-Market\n- David Kim - Sales Manager, APAC\n- Jennifer Walsh - Sales Operations Manager\n- Tom Anderson - Sales Engineer\n- Emily Foster - Customer Success Manager\n\n**Absent:**\n- Robert Taylor - Sales Manager, Europe (on client visit)",
+            "md": "**Present:**\n- Sarah Johnson - VP Sales\n- Michael Chen - Senior Sales Manager, Enterprise\n- Lisa Rodriguez - Sales Manager, Mid-Market\n- David Kim - Sales Manager, APAC\n- Jennifer Walsh - Sales Operations Manager\n- Tom Anderson - Sales Engineer\n- Emily Foster - Customer Success Manager\n\n**Absent:**\n- Robert Taylor - Sales Manager, Europe (on client visit)",
+            "bBox": {
+              "x": 0,
+              "y": 0,
+              "w": 612,
+              "h": 792
+            }
+          },
+          {
+            "type": "heading",
+            "lvl": 2,
+            "value": "Q2 PERFORMANCE REVIEW",
+            "md": "## Q2 PERFORMANCE REVIEW",
+            "bBox": {
+              "x": 78,
+              "y": 257,
+              "w": 191.12,
+              "h": 14
+            }
+          },
+          {
+            "type": "text",
+            "value": "Sarah opened the meeting by congratulating the team on exceeding Q2 targets. Key highlights:\n- **Total Q2 sales:** $14.1M (105% of target)\n- **Enterprise segment:** $8.46M (112% of target)\n- **Mid-market segment:** $3.94M (98% of target)\n- **SMB segment:** $1.7M (89% of target)\n\nMichael reported that the CloudMax platform launch was the key driver of enterprise success, with 89 new enterprise clients signed. The average deal size increased to $95,000, up from $82,000 in Q1. Lisa noted that mid-market customers are showing strong interest in the AI Analytics module, with 67% of new deals including this component. However, price sensitivity remains a concern in this segment. David highlighted exceptional growth in APAC, with Japan contributing $450,000 in Q2 alone. The localization efforts have been crucial to this success.",
+            "md": "Sarah opened the meeting by congratulating the team on exceeding Q2 targets. Key highlights:\n- **Total Q2 sales:** $14.1M (105% of target)\n- **Enterprise segment:** $8.46M (112% of target)\n- **Mid-market segment:** $3.94M (98% of target)\n- **SMB segment:** $1.7M (89% of target)\n\nMichael reported that the CloudMax platform launch was the key driver of enterprise success, with 89 new enterprise clients signed. The average deal size increased to $95,000, up from $82,000 in Q1. Lisa noted that mid-market customers are showing strong interest in the AI Analytics module, with 67% of new deals including this component. However, price sensitivity remains a concern in this segment. David highlighted exceptional growth in APAC, with Japan contributing $450,000 in Q2 alone. The localization efforts have been crucial to this success.",
+            "bBox": {
+              "x": 78,
+              "y": 317,
+              "w": 455.54,
+              "h": 70
+            }
+          },
+          {
+            "type": "heading",
+            "lvl": 2,
+            "value": "Q3 PIPELINE REVIEW",
+            "md": "## Q3 PIPELINE REVIEW",
+            "bBox": {
+              "x": 78,
+              "y": 416,
+              "w": 145.26,
+              "h": 14
+            }
+          },
+          {
+            "type": "text",
+            "value": "Jennifer presented the Q3 pipeline analysis:\n- **Total Q3 pipeline:** $18.2M (weighted)\n- **Enterprise pipeline:** $12.1M (Stage 3+ deals)\n- **Mid-market pipeline:** $4.8M (strong momentum)\n- **SMB pipeline:** $1.3M (needs improvement)\n\nHigh-confidence deals for Q3:\n- **GlobalTech Industries:** $1.2M (CloudMax enterprise deployment)\n- **Manufacturing Solutions Inc:** $850K (DataFlow Suite + AI Analytics)\n- **European Logistics Group:** $2.1M (multi-year contract)\n- **APAC Bank Consortium:** $1.8M (compliance-focused solution)\n\n**Concerns:**\n- Two large enterprise deals ($3.2M combined) may slip to Q4\n- Competitive pressure from NewCorp Solutions in mid-market\n- Supply chain issues affecting delivery commitments",
+            "md": "Jennifer presented the Q3 pipeline analysis:\n- **Total Q3 pipeline:** $18.2M (weighted)\n- **Enterprise pipeline:** $12.1M (Stage 3+ deals)\n- **Mid-market pipeline:** $4.8M (strong momentum)\n- **SMB pipeline:** $1.3M (needs improvement)\n\nHigh-confidence deals for Q3:\n- **GlobalTech Industries:** $1.2M (CloudMax enterprise deployment)\n- **Manufacturing Solutions Inc:** $850K (DataFlow Suite + AI Analytics)\n- **European Logistics Group:** $2.1M (multi-year contract)\n- **APAC Bank Consortium:** $1.8M (compliance-focused solution)\n\n**Concerns:**\n- Two large enterprise deals ($3.2M combined) may slip to Q4\n- Competitive pressure from NewCorp Solutions in mid-market\n- Supply chain issues affecting delivery commitments",
+            "bBox": {
+              "x": 78,
+              "y": 524,
+              "w": 96.23,
+              "h": 10
+            }
+          },
+          {
+            "type": "heading",
+            "lvl": 2,
+            "value": "PRODUCT UPDATES",
+            "md": "## PRODUCT UPDATES",
+            "bBox": {
+              "x": 78,
+              "y": 563,
+              "w": 140.11,
+              "h": 14
+            }
+          },
+          {
+            "type": "text",
+            "value": "Tom provided updates on product developments relevant to sales:\n\n**CloudMax Platform:**\n- Mobile app launching July 15th\n- API marketplace going live in August\n- Enterprise SSO integration completed\n- 99.7% uptime achieved in Q2\n\n**SmartWidget Pro:**\n- Version 5.2 launching in August with enhanced AI capabilities\n- New compliance features for healthcare sector\n- Performance improvements showing 40% faster processing\n\n**DataFlow Suite:**\n- Real-time analytics dashboard redesigned\n- New connector for Salesforce integration\n- Advanced reporting module in beta testing\n\n**Competitive Intelligence:**\n- NewCorp Solutions released competing product with lower pricing\n- TechRival Inc acquired by larger player, may impact market dynamics\n- Our NPS score remains highest in industry at 72\n```",
+            "md": "Tom provided updates on product developments relevant to sales:\n\n**CloudMax Platform:**\n- Mobile app launching July 15th\n- API marketplace going live in August\n- Enterprise SSO integration completed\n- 99.7% uptime achieved in Q2\n\n**SmartWidget Pro:**\n- Version 5.2 launching in August with enhanced AI capabilities\n- New compliance features for healthcare sector\n- Performance improvements showing 40% faster processing\n\n**DataFlow Suite:**\n- Real-time analytics dashboard redesigned\n- New connector for Salesforce integration\n- Advanced reporting module in beta testing\n\n**Competitive Intelligence:**\n- NewCorp Solutions released competing product with lower pricing\n- TechRival Inc acquired by larger player, may impact market dynamics\n- Our NPS score remains highest in industry at 72\n```",
+            "bBox": {
+              "x": 0,
+              "y": 0,
+              "w": 612,
+              "h": 792
+            }
+          }
+        ],
+        "status": "OK",
+        "originalOrientationAngle": 0,
+        "links": [],
+        "width": 612,
+        "height": 792,
+        "triggeredAutoMode": false,
+        "parsingMode": "accurate",
+        "structuredData": null,
+        "noStructuredContent": false,
+        "noTextContent": false,
+        "pageHeaderMarkdown": "",
+        "pageFooterMarkdown": "",
+        "confidence": 0.995
+      },
+      {
+        "page": 2,
+        "text": "ACTION ITEMS\n1. Michael to follow up with GlobalTech Industries on contract terms by June 20 2. Lisa to prepare\ncompetitive analysis against NewCorp Solutions by June 25 3. David to coordinate with product team\non APAC-specific feature requests 4. Jennifer to update forecasting model with new pipeline data by\nJune 22 5. Emily to analyze customer success metrics impact on renewal rates 6. Tom to schedule\ndemo sessions for CloudMax mobile app with key prospects 7. Sarah to discuss pricing strategy for\nmid-market segment with leadership team Next Meeting: July 15, 2024 at 10:00 AM",
+        "md": "```markdown\n# Action Items\n\n1. Michael to follow up with GlobalTech Industries on contract terms by June 20\n2. Lisa to prepare competitive analysis against NewCorp Solutions by June 25\n3. David to coordinate with product team on APAC-specific feature requests\n4. Jennifer to update forecasting model with new pipeline data by June 22\n5. Emily to analyze customer success metrics impact on renewal rates\n6. Tom to schedule demo sessions for CloudMax mobile app with key prospects\n7. Sarah to discuss pricing strategy for mid-market segment with leadership team\n\n**Next Meeting:** July 15, 2024 at 10:00 AM\n```",
+        "images": [],
+        "charts": [],
+        "items": [
+          {
+            "type": "text",
+            "value": "```markdown",
+            "md": "```markdown",
+            "bBox": {
+              "x": 0,
+              "y": 0,
+              "w": 612,
+              "h": 792
+            }
+          },
+          {
+            "type": "heading",
+            "lvl": 1,
+            "value": "Action Items",
+            "md": "# Action Items",
+            "bBox": {
+              "x": 78,
+              "y": 60,
+              "w": 100.55,
+              "h": 14
+            }
+          },
+          {
+            "type": "text",
+            "value": "1. Michael to follow up with GlobalTech Industries on contract terms by June 20\n2. Lisa to prepare competitive analysis against NewCorp Solutions by June 25\n3. David to coordinate with product team on APAC-specific feature requests\n4. Jennifer to update forecasting model with new pipeline data by June 22\n5. Emily to analyze customer success metrics impact on renewal rates\n6. Tom to schedule demo sessions for CloudMax mobile app with key prospects\n7. Sarah to discuss pricing strategy for mid-market segment with leadership team\n\n**Next Meeting:** July 15, 2024 at 10:00 AM\n```",
+            "md": "1. Michael to follow up with GlobalTech Industries on contract terms by June 20\n2. Lisa to prepare competitive analysis against NewCorp Solutions by June 25\n3. David to coordinate with product team on APAC-specific feature requests\n4. Jennifer to update forecasting model with new pipeline data by June 22\n5. Emily to analyze customer success metrics impact on renewal rates\n6. Tom to schedule demo sessions for CloudMax mobile app with key prospects\n7. Sarah to discuss pricing strategy for mid-market segment with leadership team\n\n**Next Meeting:** July 15, 2024 at 10:00 AM\n```",
+            "bBox": {
+              "x": 0,
+              "y": 0,
+              "w": 612,
+              "h": 792
+            }
+          }
+        ],
+        "status": "OK",
+        "originalOrientationAngle": 0,
+        "links": [],
+        "width": 612,
+        "height": 792,
+        "triggeredAutoMode": false,
+        "parsingMode": "accurate",
+        "structuredData": null,
+        "noStructuredContent": false,
+        "noTextContent": false,
+        "pageHeaderMarkdown": "",
+        "pageFooterMarkdown": "",
+        "confidence": 0.955
+      }
+    ],
+    "job_metadata": {
+      "credits_used": 0,
+      "job_credits_usage": 0,
+      "job_pages": 2,
+      "job_auto_mode_triggered_pages": 0,
+      "job_is_cache_hit": false
+    },
+    "job_id": "a7c9615e-4b39-44c9-9435-62a548543a29",
+    "file_path": "C:\\Users\\Syed Taha Hasan\\Desktop\\LLAMAEXTRACTOR\\Data\\Sales_Team_Meeting_June_2024.pdf"
+  },
+  {
+    "pages": [
+      {
+        "page": 1,
+        "text": "                                 Syed Taha Hasan\n                    Islamabad, Pakistan tahahasan279@gmail.com | 0313-9747659\n                                        LinkedIn: taha-hasan\n\n                                        OBJECTIVE\n\nFinal year Data Science student passionate about machine learning, data analytics, and visualization. Seeking\nopportunities to apply technical skills in solving real-world problems and drive data-driven decision-making.\n\n                                        EDUCATION\n\nFAST National University of Computer and Emerging Sciences, Islamabad\nBachelor in Data Science (2021 - 2025)\n Army Public School and College, DHA-1, Islamabad (2019 - 2021)\n\n                                        EXPERIENCE\n\nData Science Intern\nMulticonsult, Norway (Remote)                                                           June 2024 - July 2024\n \u2022 Conducted data analysis, machine learning, and data visualization tasks.\n \u2022 Assisted in building data-driven solutions for real-world applications.\n Data Analysis Intern\nPepsiCo                                                                                        September 2024\n \u2022 Analyzed a retail company\u2019s sales data to identify trends, optimize inventory,improve customer retention.\n Data Science & Analytics\nHP LIFE (Remote)                                                                                 October 2024\n \u2022 Analyzed patient readmission rates to identify patterns and reduce unnecessary hospital visits.\n\n                                        PROJECTS\n\nVideo Game Sales Prediction Model\nPython, Flask, HTML/CSS Developed machine learning models to forecast global video game sales.\n Cafe Management System\nC++ Designed a system for customer orders, inventory, billing, and table management.\n Secure Authentication System\nFlask, Bcrypt, CSRF Protection Built a Flask-based 2FA login system with email OTP, bcrypt hashing, CSRF\nprotection, and rate limiting for enhanced security.\n Weather & Accident Analysis\nTableau    Analyzed accident trends using Tableau, visualizing weather impact on crash rates with interactive\ndashboards.\n\n                                        SKILLS\n\nTechnical Skills: Python, C++, JavaScript, Big Data, HTML/CSS, Streamlit\nMachine Learning & AI: Scikit-learn, PyTorch, TensorFlow, Generative AI\nData Analysis & Visualization: Tableau, Power BI, D3.js, Matplotlib, Seaborn\nDatabases: MySQL, MongoDB\n\n                                        LEADERSHIP\n\n \u2022 Ex-Lead Creatives of FAST Data Science Society with over 100+ Student members and the official Depart-\n mental Society of FAST NUCES Islamabad.\n \u2022 Media Officer - NASCON\u201922, \u201823",
+        "md": "```markdown\n# Syed Taha Hasan\n**Location:** Islamabad, Pakistan\n**Email:** tahahasan279@gmail.com\n**Phone:** 0313-9747659\n**LinkedIn:** taha-hasan\n\n## OBJECTIVE\nFinal year Data Science student passionate about machine learning, data analytics, and visualization. Seeking opportunities to apply technical skills in solving real-world problems and drive data-driven decision-making.\n\n## EDUCATION\n- **FAST National University of Computer and Emerging Sciences, Islamabad**\nBachelor in Data Science (2021 - 2025)\n- **Army Public School and College, DHA-1, Islamabad** (2019 - 2021)\n\n## EXPERIENCE\n### Data Science Intern\n**Multiconsult, Norway (Remote)**\nJune 2024 - July 2024\n- Conducted data analysis, machine learning, and data visualization tasks.\n- Assisted in building data-driven solutions for real-world applications.\n\n### Data Analysis Intern\n**PepsiCo**\nSeptember 2024\n- Analyzed a retail company\u2019s sales data to identify trends, optimize inventory, and improve customer retention.\n\n### Data Science &#x26; Analytics\n**HP LIFE (Remote)**\nOctober 2024\n- Analyzed patient readmission rates to identify patterns and reduce unnecessary hospital visits.\n\n## PROJECTS\n- **Video Game Sales Prediction Model**\nTechnologies: Python, Flask, HTML/CSS\nDeveloped machine learning models to forecast global video game sales.\n\n- **Cafe Management System**\nTechnologies: C++\nDesigned a system for customer orders, inventory, billing, and table management.\n\n- **Secure Authentication System**\nTechnologies: Flask, Bcrypt, CSRF Protection\nBuilt a Flask-based 2FA login system with email OTP, bcrypt hashing, CSRF protection, and rate limiting for enhanced security.\n\n- **Weather &#x26; Accident Analysis**\nTechnologies: Tableau\nAnalyzed accident trends using Tableau, visualizing weather impact on crash rates with interactive dashboards.\n\n## SKILLS\n- **Technical Skills:** Python, C++, JavaScript, Big Data, HTML/CSS, Streamlit\n- **Machine Learning &#x26; AI:** Scikit-learn, PyTorch, TensorFlow, Generative AI\n- **Data Analysis &#x26; Visualization:** Tableau, Power BI, D3.js, Matplotlib, Seaborn\n- **Databases:** MySQL, MongoDB\n\n## LEADERSHIP\n- Ex-Lead Creatives of FAST Data Science Society with over 100+ student members and the official departmental society of FAST NUCES Islamabad.\n- Media Officer - NASCON\u201922, \u201823\n```",
+        "images": [],
+        "charts": [],
+        "items": [
+          {
+            "type": "text",
+            "value": "```markdown",
+            "md": "```markdown",
+            "bBox": {
+              "x": 0,
+              "y": 0,
+              "w": 595.28,
+              "h": 841.89
+            }
+          },
+          {
+            "type": "heading",
+            "lvl": 1,
+            "value": "Syed Taha Hasan",
+            "md": "# Syed Taha Hasan",
+            "bBox": {
+              "x": 209.56,
+              "y": 47.69,
+              "w": 176.3,
+              "h": 21
+            }
+          },
+          {
+            "type": "text",
+            "value": "**Location:** Islamabad, Pakistan\n**Email:** tahahasan279@gmail.com\n**Phone:** 0313-9747659\n**LinkedIn:** taha-hasan",
+            "md": "**Location:** Islamabad, Pakistan\n**Email:** tahahasan279@gmail.com\n**Phone:** 0313-9747659\n**LinkedIn:** taha-hasan",
+            "bBox": {
+              "x": 160.64,
+              "y": 70.34,
+              "w": 88.7,
+              "h": 10
+            }
+          },
+          {
+            "type": "heading",
+            "lvl": 2,
+            "value": "OBJECTIVE",
+            "md": "## OBJECTIVE",
+            "bBox": {
+              "x": 258.39,
+              "y": 115.36,
+              "w": 78,
+              "h": 12
+            }
+          },
+          {
+            "type": "text",
+            "value": "Final year Data Science student passionate about machine learning, data analytics, and visualization. Seeking opportunities to apply technical skills in solving real-world problems and drive data-driven decision-making.",
+            "md": "Final year Data Science student passionate about machine learning, data analytics, and visualization. Seeking opportunities to apply technical skills in solving real-world problems and drive data-driven decision-making.",
+            "bBox": {
+              "x": 54,
+              "y": 139.18,
+              "w": 487.34,
+              "h": 497.34
+            }
+          },
+          {
+            "type": "heading",
+            "lvl": 2,
+            "value": "EDUCATION",
+            "md": "## EDUCATION",
+            "bBox": {
+              "x": 256.04,
+              "y": 177.18,
+              "w": 83,
+              "h": 12
+            }
+          },
+          {
+            "type": "text",
+            "value": "- **FAST National University of Computer and Emerging Sciences, Islamabad**\nBachelor in Data Science (2021 - 2025)\n- **Army Public School and College, DHA-1, Islamabad** (2019 - 2021)",
+            "md": "- **FAST National University of Computer and Emerging Sciences, Islamabad**\nBachelor in Data Science (2021 - 2025)\n- **Army Public School and College, DHA-1, Islamabad** (2019 - 2021)",
+            "bBox": {
+              "x": 54,
+              "y": 200.99,
+              "w": 376.03,
+              "h": 21.96
+            }
+          },
+          {
+            "type": "heading",
+            "lvl": 2,
+            "value": "EXPERIENCE",
+            "md": "## EXPERIENCE",
+            "bBox": {
+              "x": 252.67,
+              "y": 260.96,
+              "w": 90,
+              "h": 12
+            }
+          },
+          {
+            "type": "heading",
+            "lvl": 3,
+            "value": "Data Science Intern",
+            "md": "### Data Science Intern",
+            "bBox": {
+              "x": 54,
+              "y": 284.78,
+              "w": 99.62,
+              "h": 10
+            }
+          },
+          {
+            "type": "text",
+            "value": "**Multiconsult, Norway (Remote)**\nJune 2024 - July 2024\n- Conducted data analysis, machine learning, and data visualization tasks.\n- Assisted in building data-driven solutions for real-world applications.",
+            "md": "**Multiconsult, Norway (Remote)**\nJune 2024 - July 2024\n- Conducted data analysis, machine learning, and data visualization tasks.\n- Assisted in building data-driven solutions for real-world applications.",
+            "bBox": {
+              "x": 54,
+              "y": 296.73,
+              "w": 485.56,
+              "h": 10
+            }
+          },
+          {
+            "type": "heading",
+            "lvl": 3,
+            "value": "Data Analysis Intern",
+            "md": "### Data Analysis Intern",
+            "bBox": {
+              "x": 68.94,
+              "y": 354.5,
+              "w": 105.06,
+              "h": 10
+            }
+          },
+          {
+            "type": "text",
+            "value": "**PepsiCo**\nSeptember 2024\n- Analyzed a retail company\u2019s sales data to identify trends, optimize inventory, and improve customer retention.",
+            "md": "**PepsiCo**\nSeptember 2024\n- Analyzed a retail company\u2019s sales data to identify trends, optimize inventory, and improve customer retention.",
+            "bBox": {
+              "x": 54,
+              "y": 366.46,
+              "w": 485.56,
+              "h": 10
+            }
+          },
+          {
+            "type": "heading",
+            "lvl": 3,
+            "value": "Data Science &x26; Analytics",
+            "md": "### Data Science &#x26; Analytics",
+            "bBox": {
+              "x": 0,
+              "y": 0,
+              "w": 595.28,
+              "h": 841.89
+            }
+          },
+          {
+            "type": "text",
+            "value": "**HP LIFE (Remote)**\nOctober 2024\n- Analyzed patient readmission rates to identify patterns and reduce unnecessary hospital visits.",
+            "md": "**HP LIFE (Remote)**\nOctober 2024\n- Analyzed patient readmission rates to identify patterns and reduce unnecessary hospital visits.",
+            "bBox": {
+              "x": 54,
+              "y": 416.66,
+              "w": 485.56,
+              "h": 10
+            }
+          },
+          {
+            "type": "heading",
+            "lvl": 2,
+            "value": "PROJECTS",
+            "md": "## PROJECTS",
+            "bBox": {
+              "x": 262.01,
+              "y": 469,
+              "w": 71,
+              "h": 12
+            }
+          },
+          {
+            "type": "text",
+            "value": "- **Video Game Sales Prediction Model**\nTechnologies: Python, Flask, HTML/CSS\nDeveloped machine learning models to forecast global video game sales.\n\n- **Cafe Management System**\nTechnologies: C++\nDesigned a system for customer orders, inventory, billing, and table management.\n\n- **Secure Authentication System**\nTechnologies: Flask, Bcrypt, CSRF Protection\nBuilt a Flask-based 2FA login system with email OTP, bcrypt hashing, CSRF protection, and rate limiting for enhanced security.\n\n- **Weather &#x26; Accident Analysis**\nTechnologies: Tableau\nAnalyzed accident trends using Tableau, visualizing weather impact on crash rates with interactive dashboards.",
+            "md": "- **Video Game Sales Prediction Model**\nTechnologies: Python, Flask, HTML/CSS\nDeveloped machine learning models to forecast global video game sales.\n\n- **Cafe Management System**\nTechnologies: C++\nDesigned a system for customer orders, inventory, billing, and table management.\n\n- **Secure Authentication System**\nTechnologies: Flask, Bcrypt, CSRF Protection\nBuilt a Flask-based 2FA login system with email OTP, bcrypt hashing, CSRF protection, and rate limiting for enhanced security.\n\n- **Weather &#x26; Accident Analysis**\nTechnologies: Tableau\nAnalyzed accident trends using Tableau, visualizing weather impact on crash rates with interactive dashboards.",
+            "bBox": {
+              "x": 54,
+              "y": 492.82,
+              "w": 487.58,
+              "h": 117.6
+            }
+          },
+          {
+            "type": "heading",
+            "lvl": 2,
+            "value": "SKILLS",
+            "md": "## SKILLS",
+            "bBox": {
+              "x": 274.32,
+              "y": 624.52,
+              "w": 47,
+              "h": 12
+            }
+          },
+          {
+            "type": "text",
+            "value": "- **Technical Skills:** Python, C++, JavaScript, Big Data, HTML/CSS, Streamlit\n- **Machine Learning &#x26; AI:** Scikit-learn, PyTorch, TensorFlow, Generative AI\n- **Data Analysis &#x26; Visualization:** Tableau, Power BI, D3.js, Matplotlib, Seaborn\n- **Databases:** MySQL, MongoDB",
+            "md": "- **Technical Skills:** Python, C++, JavaScript, Big Data, HTML/CSS, Streamlit\n- **Machine Learning &#x26; AI:** Scikit-learn, PyTorch, TensorFlow, Generative AI\n- **Data Analysis &#x26; Visualization:** Tableau, Power BI, D3.js, Matplotlib, Seaborn\n- **Databases:** MySQL, MongoDB",
+            "bBox": {
+              "x": 54,
+              "y": 588.46,
+              "w": 267.32,
+              "h": 48.06
+            }
+          },
+          {
+            "type": "heading",
+            "lvl": 2,
+            "value": "LEADERSHIP",
+            "md": "## LEADERSHIP",
+            "bBox": {
+              "x": 253.43,
+              "y": 710.24,
+              "w": 88,
+              "h": 12
+            }
+          },
+          {
+            "type": "text",
+            "value": "- Ex-Lead Creatives of FAST Data Science Society with over 100+ student members and the official departmental society of FAST NUCES Islamabad.\n- Media Officer - NASCON\u201922, \u201823\n```",
+            "md": "- Ex-Lead Creatives of FAST Data Science Society with over 100+ student members and the official departmental society of FAST NUCES Islamabad.\n- Media Officer - NASCON\u201922, \u201823\n```",
+            "bBox": {
+              "x": 78.91,
+              "y": 746.01,
+              "w": 192.57,
+              "h": 10
+            }
+          }
+        ],
+        "status": "OK",
+        "originalOrientationAngle": 0,
+        "links": [
+          {
+            "url": "mailto:tahahasan279@gmail.com",
+            "unsafeUrl": "mailto:tahahasan279@gmail.com",
+            "text": "taha-hasan"
+          },
+          {
+            "url": "http://linkedin.com/in/taha-hasan-1b075b276",
+            "unsafeUrl": "http://linkedin.com/in/taha-hasan-1b075b276",
+            "text": ""
+          }
+        ],
+        "width": 595.276,
+        "height": 841.89,
+        "triggeredAutoMode": false,
+        "parsingMode": "accurate",
+        "structuredData": null,
+        "noStructuredContent": false,
+        "noTextContent": false,
+        "pageHeaderMarkdown": "",
+        "pageFooterMarkdown": "",
+        "confidence": 0.919
+      }
+    ],
+    "job_metadata": {
+      "credits_used": 0,
+      "job_credits_usage": 0,
+      "job_pages": 1,
+      "job_auto_mode_triggered_pages": 0,
+      "job_is_cache_hit": false
+    },
+    "job_id": "433184e2-b0bb-4404-9e58-7af0fb960935",
+    "file_path": "C:\\Users\\Syed Taha Hasan\\Desktop\\LLAMAEXTRACTOR\\Data\\TahaHasan.pdf"
+  },
+  {
+    "pages": [
+      {
+        "page": 1,
+        "text": "WEEKLY SALES REPORT\n\nWeek of June 17-23, 2024\n\n\nEXECUTIVE SUMMARY\nThe sales team closed $2.8M in new business this week, bringing the monthly total to $9.6M (64% of\ntarget). Enterprise deals accounted for 72% of revenue, with particular strength in CloudMax platform\nsales. The pipeline grew by $4.2M with several large deals progressing through late stages.\n\nWEEKLY PERFORMANCE\n\n      Metric         This Week     Last Week     Change\n\n New Deals Closed    $2,800,000    $3,100,000    -9.7%\nNew Opportunities    $4,200,000    $3,800,000    +10.5%\n  Meetings Held          87            92        -5.4%\n Demos Completed         42            38        +10.5%\n  Proposals Sent         28            31        -9.7%\n\nNOTABLE DEALS CLOSED\n1. Global Financial Services - $1.2M \u2022 CloudMax Enterprise Edition \u2022 3-year contract \u2022 Includes\npremium support package 2. Manufacturing Solutions Inc - $850K \u2022 DataFlow Suite + AI Analytics \u2022\nImplementation services included \u2022 20% expansion from initial proposal 3. TechStartup Group - $450K \u2022\nSmartWidget Pro licenses \u2022 Training and onboarding package \u2022 Upsell from pilot program 4. European\nLogistics Co - $300K \u2022 CloudMax Mid-Market Edition \u2022 Localized for German market \u2022 12-month\ncontract\n\nPIPELINE UPDATE\nTotal pipeline: $42.8M (up $4.2M from last week) Pipeline by Stage: \u2022 Stage 1 (Prospecting): $8.2M \u2022\nStage 2 (Qualified): $12.6M \u2022 Stage 3 (Solution Design): $9.4M \u2022 Stage 4 (Proposal): $7.1M \u2022 Stage 5\n(Negotiation): $5.5M Key Deals in Progress: \u2022 MegaCorp Enterprise: $2.8M (Stage 5) \u2022 APAC Bank\nConsortium: $1.8M (Stage 4) \u2022 Healthcare Solutions: $1.2M (Stage 3) \u2022 Retail Chain: $950K (Stage 4)\nRisks: \u2022 MegaCorp deal may slip to July \u2022 Competitive pressure on Retail Chain deal \u2022 Pricing concerns\non Healthcare Solutions\n\nACTION ITEMS",
+        "md": "```markdown\n# WEEKLY SALES REPORT\n\n**Week of June 17-23, 2024**\n\n## EXECUTIVE SUMMARY\nThe sales team closed **$2.8M** in new business this week, bringing the monthly total to **$9.6M** (64% of target). Enterprise deals accounted for **72%** of revenue, with particular strength in CloudMax platform sales. The pipeline grew by **$4.2M** with several large deals progressing through late stages.\n\n## WEEKLY PERFORMANCE\n\n| Metric                | This Week     | Last Week     | Change   |\n|-----------------------|---------------|---------------|----------|\n| New Deals Closed      | $2,800,000    | $3,100,000    | -9.7%    |\n| New Opportunities      | $4,200,000    | $3,800,000    | +10.5%   |\n| Meetings Held         | 87            | 92            | -5.4%    |\n| Demos Completed       | 42            | 38            | +10.5%   |\n| Proposals Sent        | 28            | 31            | -9.7%    |\n\n## NOTABLE DEALS CLOSED\n1. **Global Financial Services** - $1.2M \u2022 CloudMax Enterprise Edition \u2022 3-year contract \u2022 Includes premium support package\n2. **Manufacturing Solutions Inc** - $850K \u2022 DataFlow Suite + AI Analytics \u2022 Implementation services included \u2022 20% expansion from initial proposal\n3. **TechStartup Group** - $450K \u2022 SmartWidget Pro licenses \u2022 Training and onboarding package \u2022 Upsell from pilot program\n4. **European Logistics Co** - $300K \u2022 CloudMax Mid-Market Edition \u2022 Localized for German market \u2022 12-month contract\n\n## PIPELINE UPDATE\nTotal pipeline: **$42.8M** (up **$4.2M** from last week)\n\n### Pipeline by Stage:\n- Stage 1 (Prospecting): **$8.2M**\n- Stage 2 (Qualified): **$12.6M**\n- Stage 3 (Solution Design): **$9.4M**\n- Stage 4 (Proposal): **$7.1M**\n- Stage 5 (Negotiation): **$5.5M**\n\n### Key Deals in Progress:\n- MegaCorp Enterprise: **$2.8M** (Stage 5)\n- APAC Bank Consortium: **$1.8M** (Stage 4)\n- Healthcare Solutions: **$1.2M** (Stage 3)\n- Retail Chain: **$950K** (Stage 4)\n\n### Risks:\n- MegaCorp deal may slip to July\n- Competitive pressure on Retail Chain deal\n- Pricing concerns on Healthcare Solutions\n\n## ACTION ITEMS\n```",
+        "images": [],
+        "charts": [],
+        "items": [
+          {
+            "type": "text",
+            "value": "```markdown",
+            "md": "```markdown",
+            "bBox": {
+              "x": 0,
+              "y": 0,
+              "w": 612,
+              "h": 792
+            }
+          },
+          {
+            "type": "heading",
+            "lvl": 1,
+            "value": "WEEKLY SALES REPORT",
+            "md": "# WEEKLY SALES REPORT",
+            "bBox": {
+              "x": 219.66,
+              "y": 60,
+              "w": 172.35,
+              "h": 14
+            }
+          },
+          {
+            "type": "text",
+            "value": "**Week of June 17-23, 2024**",
+            "md": "**Week of June 17-23, 2024**",
+            "bBox": {
+              "x": 78,
+              "y": 102,
+              "w": 168.72,
+              "h": 14
+            }
+          },
+          {
+            "type": "heading",
+            "lvl": 2,
+            "value": "EXECUTIVE SUMMARY",
+            "md": "## EXECUTIVE SUMMARY",
+            "bBox": {
+              "x": 78,
+              "y": 158,
+              "w": 155.24,
+              "h": 14
+            }
+          },
+          {
+            "type": "text",
+            "value": "The sales team closed **$2.8M** in new business this week, bringing the monthly total to **$9.6M** (64% of target). Enterprise deals accounted for **72%** of revenue, with particular strength in CloudMax platform sales. The pipeline grew by **$4.2M** with several large deals progressing through late stages.",
+            "md": "The sales team closed **$2.8M** in new business this week, bringing the monthly total to **$9.6M** (64% of target). Enterprise deals accounted for **72%** of revenue, with particular strength in CloudMax platform sales. The pipeline grew by **$4.2M** with several large deals progressing through late stages.",
+            "bBox": {
+              "x": 263.27,
+              "y": 277,
+              "w": 49.34,
+              "h": 10
+            }
+          },
+          {
+            "type": "heading",
+            "lvl": 2,
+            "value": "WEEKLY PERFORMANCE",
+            "md": "## WEEKLY PERFORMANCE",
+            "bBox": {
+              "x": 78,
+              "y": 250,
+              "w": 173.78,
+              "h": 14
+            }
+          },
+          {
+            "type": "table",
+            "rows": [
+              [
+                "Metric",
+                "This Week",
+                "Last Week",
+                "Change"
+              ],
+              [
+                "New Deals Closed",
+                "$2,800,000",
+                "$3,100,000",
+                "-9.7%"
+              ],
+              [
+                "New Opportunities",
+                "$4,200,000",
+                "$3,800,000",
+                "+10.5%"
+              ],
+              [
+                "Meetings Held",
+                "87",
+                "92",
+                "-5.4%"
+              ],
+              [
+                "Demos Completed",
+                "42",
+                "38",
+                "+10.5%"
+              ],
+              [
+                "Proposals Sent",
+                "28",
+                "31",
+                "-9.7%"
+              ]
+            ],
+            "md": "| Metric            | This Week  | Last Week  | Change |\n| ----------------- | ---------- | ---------- | ------ |\n| New Deals Closed  | $2,800,000 | $3,100,000 | -9.7%  |\n| New Opportunities | $4,200,000 | $3,800,000 | +10.5% |\n| Meetings Held     | 87         | 92         | -5.4%  |\n| Demos Completed   | 42         | 38         | +10.5% |\n| Proposals Sent    | 28         | 31         | -9.7%  |",
+            "isPerfectTable": false,
+            "csv": "\"Metric\",\"This Week\",\"Last Week\",\"Change\"\n\"New Deals Closed\",\"$2,800,000\",\"$3,100,000\",\"-9.7%\"\n\"New Opportunities\",\"$4,200,000\",\"$3,800,000\",\"+10.5%\"\n\"Meetings Held\",\"87\",\"92\",\"-5.4%\"\n\"Demos Completed\",\"42\",\"38\",\"+10.5%\"\n\"Proposals Sent\",\"28\",\"31\",\"-9.7%\"",
+            "bBox": {
+              "x": 78,
+              "y": 182,
+              "w": 446.03,
+              "h": 403
+            }
+          },
+          {
+            "type": "heading",
+            "lvl": 2,
+            "value": "NOTABLE DEALS CLOSED",
+            "md": "## NOTABLE DEALS CLOSED",
+            "bBox": {
+              "x": 78,
+              "y": 423,
+              "w": 180.89,
+              "h": 14
+            }
+          },
+          {
+            "type": "text",
+            "value": "1. **Global Financial Services** - $1.2M \u2022 CloudMax Enterprise Edition \u2022 3-year contract \u2022 Includes premium support package\n2. **Manufacturing Solutions Inc** - $850K \u2022 DataFlow Suite + AI Analytics \u2022 Implementation services included \u2022 20% expansion from initial proposal\n3. **TechStartup Group** - $450K \u2022 SmartWidget Pro licenses \u2022 Training and onboarding package \u2022 Upsell from pilot program\n4. **European Logistics Co** - $300K \u2022 CloudMax Mid-Market Edition \u2022 Localized for German market \u2022 12-month contract",
+            "md": "1. **Global Financial Services** - $1.2M \u2022 CloudMax Enterprise Edition \u2022 3-year contract \u2022 Includes premium support package\n2. **Manufacturing Solutions Inc** - $850K \u2022 DataFlow Suite + AI Analytics \u2022 Implementation services included \u2022 20% expansion from initial proposal\n3. **TechStartup Group** - $450K \u2022 SmartWidget Pro licenses \u2022 Training and onboarding package \u2022 Upsell from pilot program\n4. **European Logistics Co** - $300K \u2022 CloudMax Mid-Market Edition \u2022 Localized for German market \u2022 12-month contract",
+            "bBox": {
+              "x": 78,
+              "y": 507,
+              "w": 36,
+              "h": 10
+            }
+          },
+          {
+            "type": "heading",
+            "lvl": 2,
+            "value": "PIPELINE UPDATE",
+            "md": "## PIPELINE UPDATE",
+            "bBox": {
+              "x": 78,
+              "y": 551,
+              "w": 125.69,
+              "h": 14
+            }
+          },
+          {
+            "type": "text",
+            "value": "Total pipeline: **$42.8M** (up **$4.2M** from last week)",
+            "md": "Total pipeline: **$42.8M** (up **$4.2M** from last week)",
+            "bBox": {
+              "x": 282.44,
+              "y": 277,
+              "w": 138.17,
+              "h": 91
+            }
+          },
+          {
+            "type": "heading",
+            "lvl": 3,
+            "value": "Pipeline by Stage:",
+            "md": "### Pipeline by Stage:",
+            "bBox": {
+              "x": 0,
+              "y": 0,
+              "w": 612,
+              "h": 792
+            }
+          },
+          {
+            "type": "text",
+            "value": "- Stage 1 (Prospecting): **$8.2M**\n- Stage 2 (Qualified): **$12.6M**\n- Stage 3 (Solution Design): **$9.4M**\n- Stage 4 (Proposal): **$7.1M**\n- Stage 5 (Negotiation): **$5.5M**",
+            "md": "- Stage 1 (Prospecting): **$8.2M**\n- Stage 2 (Qualified): **$12.6M**\n- Stage 3 (Solution Design): **$9.4M**\n- Stage 4 (Proposal): **$7.1M**\n- Stage 5 (Negotiation): **$5.5M**",
+            "bBox": {
+              "x": 0,
+              "y": 0,
+              "w": 612,
+              "h": 792
+            }
+          },
+          {
+            "type": "heading",
+            "lvl": 3,
+            "value": "Key Deals in Progress:",
+            "md": "### Key Deals in Progress:",
+            "bBox": {
+              "x": 0,
+              "y": 0,
+              "w": 612,
+              "h": 792
+            }
+          },
+          {
+            "type": "text",
+            "value": "- MegaCorp Enterprise: **$2.8M** (Stage 5)\n- APAC Bank Consortium: **$1.8M** (Stage 4)\n- Healthcare Solutions: **$1.2M** (Stage 3)\n- Retail Chain: **$950K** (Stage 4)",
+            "md": "- MegaCorp Enterprise: **$2.8M** (Stage 5)\n- APAC Bank Consortium: **$1.8M** (Stage 4)\n- Healthcare Solutions: **$1.2M** (Stage 3)\n- Retail Chain: **$950K** (Stage 4)",
+            "bBox": {
+              "x": 0,
+              "y": 0,
+              "w": 612,
+              "h": 792
+            }
+          },
+          {
+            "type": "heading",
+            "lvl": 3,
+            "value": "Risks:",
+            "md": "### Risks:",
+            "bBox": {
+              "x": 0,
+              "y": 0,
+              "w": 612,
+              "h": 792
+            }
+          },
+          {
+            "type": "text",
+            "value": "- MegaCorp deal may slip to July\n- Competitive pressure on Retail Chain deal\n- Pricing concerns on Healthcare Solutions",
+            "md": "- MegaCorp deal may slip to July\n- Competitive pressure on Retail Chain deal\n- Pricing concerns on Healthcare Solutions",
+            "bBox": {
+              "x": 78,
+              "y": 635,
+              "w": 106.03,
+              "h": 10
+            }
+          },
+          {
+            "type": "heading",
+            "lvl": 2,
+            "value": "ACTION ITEMS",
+            "md": "## ACTION ITEMS",
+            "bBox": {
+              "x": 78,
+              "y": 679,
+              "w": 100.55,
+              "h": 14
+            }
+          },
+          {
+            "type": "text",
+            "value": "```",
+            "md": "```",
+            "bBox": {
+              "x": 0,
+              "y": 0,
+              "w": 612,
+              "h": 792
+            }
+          }
+        ],
+        "status": "OK",
+        "originalOrientationAngle": 0,
+        "links": [],
+        "width": 612,
+        "height": 792,
+        "triggeredAutoMode": false,
+        "parsingMode": "accurate",
+        "structuredData": null,
+        "noStructuredContent": false,
+        "noTextContent": false,
+        "pageHeaderMarkdown": "",
+        "pageFooterMarkdown": "",
+        "confidence": 0.992
+      },
+      {
+        "page": 2,
+        "text": "1. Michael to finalize MegaCorp contract terms by Friday 2. Lisa to address pricing concerns on\nHealthcare deal 3. David to coordinate APAC Bank demo with product team 4. Jennifer to update\nforecast model with new pipeline 5. All reps to schedule 5 new meetings for next week Next Week's\nFocus: \u2022 Push Stage 4/5 deals to close \u2022 Address competitive threats \u2022 Improve prospecting activity",
+        "md": "```markdown\n# Action Items\n1. Michael to finalize MegaCorp contract terms by Friday\n2. Lisa to address pricing concerns on Healthcare deal\n3. David to coordinate APAC Bank demo with product team\n4. Jennifer to update forecast model with new pipeline\n5. All reps to schedule 5 new meetings for next week\n\n## Next Week's Focus:\n- Push Stage 4/5 deals to close\n- Address competitive threats\n- Improve prospecting activity\n```",
+        "images": [],
+        "charts": [],
+        "items": [
+          {
+            "type": "text",
+            "value": "```markdown",
+            "md": "```markdown",
+            "bBox": {
+              "x": 0,
+              "y": 0,
+              "w": 612,
+              "h": 792
+            }
+          },
+          {
+            "type": "heading",
+            "lvl": 1,
+            "value": "Action Items",
+            "md": "# Action Items",
+            "bBox": {
+              "x": 0,
+              "y": 0,
+              "w": 612,
+              "h": 792
+            }
+          },
+          {
+            "type": "text",
+            "value": "1. Michael to finalize MegaCorp contract terms by Friday\n2. Lisa to address pricing concerns on Healthcare deal\n3. David to coordinate APAC Bank demo with product team\n4. Jennifer to update forecast model with new pipeline\n5. All reps to schedule 5 new meetings for next week",
+            "md": "1. Michael to finalize MegaCorp contract terms by Friday\n2. Lisa to address pricing concerns on Healthcare deal\n3. David to coordinate APAC Bank demo with product team\n4. Jennifer to update forecast model with new pipeline\n5. All reps to schedule 5 new meetings for next week",
+            "bBox": {
+              "x": 0,
+              "y": 0,
+              "w": 612,
+              "h": 792
+            }
+          },
+          {
+            "type": "heading",
+            "lvl": 2,
+            "value": "Next Week's Focus:",
+            "md": "## Next Week's Focus:",
+            "bBox": {
+              "x": 0,
+              "y": 0,
+              "w": 612,
+              "h": 792
+            }
+          },
+          {
+            "type": "text",
+            "value": "- Push Stage 4/5 deals to close\n- Address competitive threats\n- Improve prospecting activity\n```",
+            "md": "- Push Stage 4/5 deals to close\n- Address competitive threats\n- Improve prospecting activity\n```",
+            "bBox": {
+              "x": 0,
+              "y": 0,
+              "w": 612,
+              "h": 792
+            }
+          }
+        ],
+        "status": "OK",
+        "originalOrientationAngle": 0,
+        "links": [],
+        "width": 612,
+        "height": 792,
+        "triggeredAutoMode": false,
+        "parsingMode": "accurate",
+        "structuredData": null,
+        "noStructuredContent": false,
+        "noTextContent": false,
+        "pageHeaderMarkdown": "",
+        "pageFooterMarkdown": "",
+        "confidence": 0.938
+      }
+    ],
+    "job_metadata": {
+      "credits_used": 0,
+      "job_credits_usage": 0,
+      "job_pages": 2,
+      "job_auto_mode_triggered_pages": 0,
+      "job_is_cache_hit": false
+    },
+    "job_id": "007eafb7-37e8-4d2f-8d80-e2cca927cbf2",
+    "file_path": "C:\\Users\\Syed Taha Hasan\\Desktop\\LLAMAEXTRACTOR\\Data\\Weekly_Sales_Report_June_Week3_2024.pdf"
+  }
+]
